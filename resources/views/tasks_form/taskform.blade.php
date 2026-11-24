@@ -25,6 +25,7 @@
                 <p class="mt-2 text-sm text-slate-400">
                     Add a new task and assign it to your team.
                 </p>
+                <a href="">Task List</a>
             </div>
 
             <form action="#" method="POST" enctype="multipart/form-data" class="space-y-6">
